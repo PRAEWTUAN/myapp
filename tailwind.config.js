@@ -7,7 +7,8 @@ module.exports = {
       fontFamily:{
         angsana: ["angsana"],
         Sriracha: ["Sriracha"],
-        KoHo: ["KoHo"]
+        KoHo: ["KoHo"],
+        Oswald: ["Oswald"]
       }
     },
   },
